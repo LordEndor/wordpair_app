@@ -6,7 +6,7 @@ void main() {
 
 //yo1
 //cool kommentar
-//okej
+//wtf
 //hej
 
 class MyApp extends StatelessWidget {
